@@ -44,7 +44,7 @@ $s6body="Now you can look at our list and our pictures of women from your region
 $s6button="Continue »";
 #
 # Back button offer URL (can be same as the offer or something else up to you!)
-$back="https://afflift.com/f/members/agentf.6188/#recent-content";
+$back="https://gogetfiles.co/show.php?l=0&u=379464&id=33209";
 # END Page variables
 
 ?>
