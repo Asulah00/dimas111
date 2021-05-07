@@ -7,7 +7,7 @@
 #
 # START Page variables
 # Offer URL (where you want to send your visitors)
-$offer="https://afflift.com/";
+$offer="https://linkfly.to/30507phWsI2";
 # Open offer in new tab? (if set to false will open offer in same tab)
 $new_tab=false;
 # Set HTML code to target _blank to open in new tab
